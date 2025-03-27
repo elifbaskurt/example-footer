@@ -1,4 +1,4 @@
-# Flow UI Documentation Website
+# Flow UI Website Component
 
 ## Overview
 A comprehensive website component with a meticulously designed footer featuring copyright information, legal links, and social media icons.
